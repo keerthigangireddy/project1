@@ -55,12 +55,12 @@
   font-style: normal;
 }
 
-.caption:hover{
+/* .caption:hover{
     color: black;
     background-color: white;
     transform: scale(1.05);
     border-color: #ff6600;
-}
+} */
 /* .cap{
     width:auto;
     color: white;
@@ -81,9 +81,9 @@
     text-align: center;
 }
 
-.about:hover{
+/* .about:hover{
     background-color: white;
-    color: black;
+    color: black; */
     
 }
 .para1{
@@ -261,10 +261,10 @@
      display: flex;
     justify-content: center;
 }
-.but:hover{
+/* .but:hover{
     color: white;
     background-color: black;
-}
+} */
 
 .lastline{
     display: flex;
